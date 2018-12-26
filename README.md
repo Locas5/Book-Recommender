@@ -9,6 +9,8 @@ It currently contains the following recommenders:
 More advanced recommenders are under construction.
 
 ## Dataset source
+Please download data from the url below:
+http://www2.informatik.uni-freiburg.de/~cziegler/BX/
+
 Improving Recommendation Lists Through Topic Diversification,
 Cai-Nicolas Ziegler, Sean M. McNee, Joseph A. Konstan, Georg Lausen; Proceedings of the 14th International World Wide Web Conference (WWW '05), May 10-14, 2005, Chiba, Japan. To appear.
-http://www2.informatik.uni-freiburg.de/~cziegler/BX/
